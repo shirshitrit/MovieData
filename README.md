@@ -25,7 +25,7 @@ The dataset used in this project includes detailed information on movies, includ
 - **Genres**
 - **Budget & Box Office Revenue**
 
-**Primary Dataset:** `MovieData.xlsx`
+**Primary Dataset:** `MovieData.xlsx` - [Download Here](https://github.com/shirshitrit/MovieData/blob/main/MovieData.xlsx)
 
 ## Tools 
 
@@ -56,10 +56,14 @@ To derive meaningful insights, we focused on:
 ### Key Findings:
 
 1. **Action & Comedy movies** consistently generate higher box office revenue compared to other genres.
-2. Worst month to release a movie is april, best season is spring to summer.
-4. Higher budgets do not always guarantee higher profits.
+   ![Best genres](https://github.com/shirshitrit/MovieData/blob/main/best-genres-by-box.png)
+2. Worst month to release a movie is april, best season is summer.
+   ![Best month](https://github.com/shirshitrit/MovieData/blob/main/best-month-by-box.png)
+3. Higher budgets do not always guarantee higher profits.
+   ![Top 5](https://github.com/shirshitrit/MovieData/blob/main/top5.png)
 
-![Movies Data Dashboard](https://github.com/user-attachments/assets/movies_dashboard.png)
+And there are many other fascinating insights you can explore on your own:
+![Movies Data Dashboard](https://github.com/shirshitrit/MovieData/blob/main/dashboard.png)
 
 ## Challenges in Analysis:
 
@@ -69,5 +73,6 @@ The main challenge was ensuring the connections between the dashboard components
 
 - `README.md` – Project documentation (this file)
 - `MovieData.xlsx` – Raw dataset for analysis
-- `Screenshots/` – Folder containing key visualizations
+- `MoviesDataDashboard.xlsx` – Dashboard created with Excel
+- `.png` files- are screenshots of key visualisations
 
